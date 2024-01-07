@@ -3,8 +3,10 @@
 # Description
 E-commerce customer behaviour case study helps in building the understanding of customers, such as their preferences, spending patterns, favourite products, and churn rate. The analysis can generate insights and helps e-commerce businesses to tailor their strategies to fulfil their customer needs, leading to increased satisfaction, loyalty while increasing return rate and reducing churn rate. 
 # Attached file
-customer_info.csv - first dataset with customer info such as ID, name, age, gender, membership level, return, churn and location.
-customer_purchase_info.csv - second dataset with customer purchase info such as ID, purchase date, product category, product price, total amount purchased, total spent and payment method.
+Customer Info.csv - first dataset with customer info such as ID, name, age, gender, membership level, return, churn and location.
+Customer Purchase Info.csv - second dataset with customer purchase info such as ID, purchase date, product category, product price, total amount purchased, total spent and payment method.
+customer_data.csv - Integrated data from Talend Data Integration
+customer_data_cleaned.csv - Cleaned data from Talend Data Prep
 
 # Objective
 1.	To understand key demographic segments in e-commerce
