@@ -7,6 +7,8 @@ Customer Info.csv - first dataset with customer info such as ID, name, age, gend
 Customer Purchase Info.csv - second dataset with customer purchase info such as ID, purchase date, product category, product price, total amount purchased, total spent and payment method.
 customer_data.csv - Integrated data from Talend Data Integration
 customer_data_cleaned.csv - Cleaned data from Talend Data Prep
+AA1_dataint.zip - Talend Data integration zip
+7005 Model.spk - DT, RF and gradient boosting model in SAS E-Miner
 
 # Objective
 1.	To understand key demographic segments in e-commerce
